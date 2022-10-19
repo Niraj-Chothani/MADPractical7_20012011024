@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/sem 5/MAD-LAB/MADPractical7_20012011024/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/sem 5/MAD-LAB/MADPractical7_20012011024/app/src/main/res/drawable/ic_baseline_add_alarm_24.xml" value="0.1" />
+        <entry key="..\:/sem 5/MAD-LAB/MADPractical7_20012011024/app/src/main/res/layout/activity_alarm_broadcast_receiver.xml" value="0.1" />
+        <entry key="..\:/sem 5/MAD-LAB/MADPractical7_20012011024/app/src/main/res/layout/activity_alarm_broadcast_receiver1.xml" value="0.1" />
+        <entry key="..\:/sem 5/MAD-LAB/MADPractical7_20012011024/app/src/main/res/layout/activity_alarm_service.xml" value="0.1" />
+        <entry key="..\:/sem 5/MAD-LAB/MADPractical7_20012011024/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/sem 5/MAD-LAB/MADPractical7_20012011024/app/src/main/res/layout/activity_my_receiver.xml" value="0.1" />
       </map>
     </option>
   </component>
